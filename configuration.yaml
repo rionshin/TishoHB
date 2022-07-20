@@ -28,3 +28,5 @@ frontend:
   
 advanced:
   network_key: GENERATE
+  #log_level: debug
+  #pan_id: 6754
